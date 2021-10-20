@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-I'm a full stack web developer based in Kuala Lumpur, Malaysia 🇲🇾 I make web and mobile applications using React. You can find me on <a href="https://twitter.com/ili_rusli">Twitter</a> where I document my #100daysOfCode journey.
+I'm a software engineer based in Kuala Lumpur, Malaysia 🇲🇾 I make web and mobile applications using javascript frameworks. You can find me on <a href="https://twitter.com/ili_rusli">Twitter</a> where I document my #100daysOfCode journey.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -27,7 +27,7 @@ I'm a full stack web developer based in Kuala Lumpur, Malaysia 🇲🇾 I make w
 <p>
 <a href="https://github.com/IlifilzaRusli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlifilzaRusli&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlifilzaRusli&theme=radical&layout=compact&exclude_lang=java" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlifilzaRusli&theme=radical&layout=compact&hide=php" />
 </p>
 
 
