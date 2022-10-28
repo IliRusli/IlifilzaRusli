@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Software Engineer based in Kuala Lumpur, Malaysia 🇲🇾 I make web and mobile applications using mainly Javascript frameworks. You can find me on <a href="https://twitter.com/ili_rusli">Twitter</a> where I document my #100daysOfCode journey.
+I'm a Software Engineer based in Kuala Lumpur, Malaysia 🇲🇾 I make web and mobile applications using mainly Javascript frameworks.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
